@@ -1,0 +1,14 @@
+h3 {
+    background-color: rgb(114, 201, 150);
+    width: 27%;
+}
+
+button {
+    background-color: rgb(114, 201, 150);
+    cursor: pointer;
+}
+
+.newTodo {
+    color: rgb(88, 133, 184);
+}
+
